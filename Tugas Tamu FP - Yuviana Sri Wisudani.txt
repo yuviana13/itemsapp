@@ -1,0 +1,10 @@
+Nama 	: Yuviana Sri Wisudani
+NIM 	: 20201319
+Jawaban 1:
+REST API adalah sebuah singkatan, REST adalah arsitektur perangkat luanak, sedangkan API (Antarmuka Pemrograman Aplikasi ) adalah komunikasi antar operator kepada server yang di buat oleh pengembang. Jadi REST API adalah desain / Arsitektur sebuah perangkat lunak yang dibuat supaya operator bisa berkomuni kasi dengan server dan operator memahami kinerja perangkat lunak tersebut.
+Jawaban 2:
+Headless architecture adalah sebuah arsitektur yang menyederhanakan penerbitan multisaluran.
+Kelebihan Headless architecture : 
+•	Agnostis (Kebebasan untuk memilih frontend apapun dan mengggunakan layanan apapun yang bias di gunakan oleh developer tanpa batasan)
+•	Skalabilitas (Skalabilitas, kustomisasi, dan kemampuan untuk ditingkatkan tidak terbatas dan tahan masa depan)
+•	Kelincahan (Mengetahui bahwa mereka dapat bergantung pada solusi yang kuat, pengelola konten dan pengembang front-end mengeluarkan lebih banyak konten kreatif dengan kecepatan lebih cepat sekaligus mengurangi biaya.
